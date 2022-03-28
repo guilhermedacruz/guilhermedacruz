@@ -6,8 +6,10 @@
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Gui-Java" height="40" width="48" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo--v1.png">
-  <img align="center" alt="Kotlin" height="40" width="48" src="https://img.icons8.com/color/48/000000/kotlin.png">
+  <img align="center" alt="Spring" height="40" width="48" src="https://img.icons8.com/color/96/000000/spring-logo.png">
   <img align="center" alt="Postgre" height="40" width="48" src="https://img.icons8.com/color/144/000000/postgreesql.png">
-  <img align="center" alt="React" height="40" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Html" height="40" width="48" src="https://img.icons8.com/color/48/000000/html-5--v1.png">
+  <img align="center" alt="Css" height="40" width="48" src="https://img.icons8.com/color/96/000000/css3.png">
+   <img align="center" alt="JavaS" height="40" width="48" src="https://img.icons8.com/color/48/000000/javascript--v1.png">
  
 </div>
